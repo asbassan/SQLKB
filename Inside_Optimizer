@@ -1,0 +1,4 @@
+Display the Statistics, Density and Histogram
+```
+DBCC SHOW_STATISTICS ('Sales.SalesOrderDetail', IX_SalesOrderDetail_ProductID)
+```
